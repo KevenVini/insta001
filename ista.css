@@ -1,0 +1,33 @@
+body {
+    font-family: arial;
+}
+.imagem-perfil {
+    width: 40px;
+    border-radius: 50%;
+}
+
+.imagem-post {
+    width: 500px;
+}
+
+.texto-perfil, .texto-traducao {
+    font-weight: bold;
+}
+
+.icones {
+    width: 20px;
+}
+
+.texto-cinza {
+    color: gray;
+}
+
+a:link, a:visited,a:hover, a:active {
+    text-decoration: none;
+    color: rgb(99, 133, 236);
+}
+
+.borda {
+    border-top: 1px solid gray;
+    width: 20%;
+}
